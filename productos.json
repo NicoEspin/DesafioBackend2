@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Leche",
+    "description": "Leche descremada",
+    "price": 250,
+    "thumbnail": "imagen1.jpg",
+    "code": "ASDF12",
+    "stock": 115,
+    "id": 1
+  },
+  {
+    "title": "Cafe",
+    "description": "Café tostado",
+    "price": 1500,
+    "thumbnail": "imagen2.jpg",
+    "code": "BVCD15",
+    "stock": 120,
+    "id": 2
+  },
+  {
+    "title": "Té",
+    "description": "Té de hierbas",
+    "price": 160,
+    "thumbnail": "imagen3.jpg",
+    "code": "BVSB16",
+    "stock": 100,
+    "id": 3
+  }
+]
